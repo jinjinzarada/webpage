@@ -50,6 +50,7 @@ body {
     flex:1;
     width :190px;
  }
+ .c_lsb {border-right:1px solid #BBBBBB;}
  .c_mbb:hover, .c_wbb:hover, .c_lsb:hover {
      filter: brightness(95%);
  }
